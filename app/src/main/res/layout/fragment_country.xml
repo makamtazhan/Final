@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".CountryFragment">
+
+    <TextView
+        android:id="@+id/india"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="India" />
+
+    <TextView
+        android:id="@+id/us"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="USA" />
+
+    <TextView
+        android:id="@+id/au"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Australia" />
+
+    <TextView
+        android:id="@+id/ru"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Russia" />
+
+    <TextView
+        android:id="@+id/fr"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="France" />
+
+    <TextView
+        android:id="@+id/gb"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="United Kingdom" />
+
+</LinearLayout>

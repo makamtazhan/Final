@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".CategoryFragment">
+
+    <TextView
+        android:id="@+id/business"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="business" />
+
+    <TextView
+        android:id="@+id/entertainment"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="entertainment" />
+
+    <TextView
+        android:id="@+id/general"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="general" />
+
+    <TextView
+        android:id="@+id/health"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="health" />
+
+    <TextView
+        android:id="@+id/science"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="science" />
+
+    <TextView
+        android:id="@+id/sports"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="sports" />
+
+    <TextView
+        android:id="@+id/technology"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="technology" />
+
+</LinearLayout>
